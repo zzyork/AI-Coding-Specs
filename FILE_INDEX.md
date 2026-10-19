@@ -33,7 +33,7 @@
 | --- | --- |
 | `profiles/Vue3前端技术栈规范.md` | 明确启用后的 Vue 3、TypeScript、Vite、Element Plus 约束 |
 | `profiles/FastAPI技术栈规范.md` | 明确启用后的 FastAPI、模型、依赖、I/O 与生命周期约束 |
-| `profiles/UI规范样板.md` | 可选 UI 规范样板，以桌面运维控制台示例说明色板、布局、控件、状态及验收标准 |
+| `profiles/UI规范样板.md` | 可填写、可扩展的 UI 约束模板，登记设计变量、组件样式、状态、页面组合及验收，限制 AI 自行改版 |
 
 ## 模板
 
